@@ -1,4 +1,3 @@
-myLLM Chat: User Guide
 Welcome to myLLM Chat, a simple and private interface for interacting with your own local Large Language Models (LLMs). This guide will walk you through setting up the application, connecting to your model, and using its features.
 
 🚀 Getting Started: 3 Simple Steps
